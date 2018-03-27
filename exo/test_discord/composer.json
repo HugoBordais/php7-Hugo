@@ -1,0 +1,12 @@
+{
+    "name": "borda/test_discord",
+    "authors": [
+        {
+            "name": "HugoBordais",
+            "email": "hugo.bordais@ynov.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
